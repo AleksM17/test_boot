@@ -36,7 +36,7 @@
     <div class="row" style="margin-top: 30px;">
         <div class="col">
             <div class="alert alert-success" role="alert">
-                <strong>Results</strong><br>
+                <strong>Results_6</strong><br>
                 <?php
                 if(isset($_POST["mainText"])){
                     echo $_POST["mainText"];
